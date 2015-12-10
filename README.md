@@ -28,5 +28,12 @@ If you need to include other folders find 'zip.bulk([...])' and add object like 
 * {src: ["FOLDER_PATH*//**"], expand: true, cwd: __dirname + "/" + fname + "/"}    
 
 * add files like this line, leave it all the same just change FILE_PATH, FILE_PATH can be wildcard as in '*.js':
-* {src: ["FILE_PATH"], expand: true, flatten: true, cwd: __dirname + "/" + fname + "/"}
+* {src: ["FILE_PATH"], expand: true, flatten: true, cwd: __dirname + "/" + fname + "/"}  
+
+
+
+
+
+#aws #lambda
+
 
