@@ -31,9 +31,9 @@ If you need to include other folders find 'zip.bulk([...])' and add object like 
 * {src: ["FILE_PATH"], expand: true, flatten: true, cwd: __dirname + "/" + fname + "/"}  
 
 
-
-
-
-aws, lambda, update lambda functions, script update
+  
+  
+  
+#### aws, lambda, update lambda functions, script update
 
 
