@@ -1,0 +1,22 @@
+# Runtime data
+pids
+*.pid
+*.seed
+
+.*
+!.gitignore
+.idea
+.DS_*
+
+*.log
+*.rdb
+
+dump.*
+
+*.zip
+
+node_modules/*
+!node_modules/custom-config
+!node_modules/custom-lists
+
+
