@@ -34,6 +34,6 @@ If you need to include other folders find 'zip.bulk([...])' and add object like 
 
 
 
-#aws #lambda
+aws, lambda, update lambda functions, script update
 
 
